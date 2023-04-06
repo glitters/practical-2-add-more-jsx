@@ -1,2 +1,2 @@
-# react-babel
-A template with React and Babel configured
+# Practical 2
+Add more JSX
