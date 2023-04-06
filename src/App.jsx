@@ -1,3 +1,10 @@
+import Hello from './Hello';
+
 export default function App() {
-    return <h1>Hello World</h1>;
+    return (
+        <div>
+            <Hello></Hello>
+            <div>{/* Name, Age, and Hobbies (Put your own name) */}</div>
+        </div>
+    );
 }
